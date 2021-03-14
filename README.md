@@ -5,8 +5,12 @@
 ```shell
 git clone 
 npm or yarn install
+delete cache html files & db json files
+and node index.js
 ```
-
-## Edit the website path for scrap another website
-
-## This program need to make some changes for you use purposes.
+# Why I made this ?
+I made this program for learn how webscrap works!
+## Is needed to made changes for scrap another website
+The site used for this project was gamefaqs.gamespot.com/n64
+for list all nintendo 64 games available there.
+## This program are made for learning purposes.
