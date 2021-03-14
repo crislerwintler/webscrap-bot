@@ -14,3 +14,7 @@ I made this program for learn how webscrap works!
 The site used for this project was gamefaqs.gamespot.com/n64
 for list all nintendo 64 games available there.
 ## This program are made for learning purposes.
+I want to make some changes to improve this program
+## Changes TODO
+- [] Break the index.js in modules
+- [] Add some features for my own use
